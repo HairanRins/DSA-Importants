@@ -1,0 +1,11 @@
+Important Algorithms
+* SEARCHING : linear search , binary search , Depth-first search (DFS) , Breadth-first search (BFS) , Hash table search , Trie search , Interpolation search
+
+* SORTING : Bubble sort , Insertion sort , Selection sort , Merge sort , Quick sort , Heap Sort , Radix Sort , Counting sort
+
+* GRAPHS : Dijkstra's Algo , Minimum spanning tree (MST) , Topological sort , Kruskal's Algo , Bellman Ford Algo , Floyd Warshall Algo , Flood Fill Algo , Lee Algo 
+
+* ARRAYS : Kadane's Algo , Floyd's Cycle Detection Algo , KMP Algo , Quick Select , Boyer-More , Majority Vote Algo , Dynamic Programming Algo , Insertion and Delection Algorithms 
+
+* BASICS : Huffman coding Compression Algo , Euclid's Algo , Union Find Algo , LZW Compression , Hash Algorithms 
+
